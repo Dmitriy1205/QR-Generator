@@ -1,0 +1,44 @@
+name: qr_authorization
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0-116.0.dev <3.0.0"
+
+
+dependencies:
+  flutter_bloc: ^7.3.2
+  equatable: ^2.0.3
+  desktop_window: ^0.4.0
+  qr_flutter: ^4.0.0
+  http: ^0.13.4
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  generate: true
+
+  uses-material-design: true
+
+
+
