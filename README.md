@@ -1,4 +1,4 @@
-# qr_authorization
+QR-Generator
 
 
 QR-code generator for entering to gaming platform.
